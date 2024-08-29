@@ -16,4 +16,4 @@ if __name__ == "__main__":
     x = np.random.uniform(-1, 1, size=500)
     y = np.random.uniform(-1, 1, size=500)
 
-    plot_it(x, y, "index.html")
+    plot_it(x, y, "docs/index.html")
